@@ -7,3 +7,4 @@
 cuisson.
 - Enfourner pour 10 minutes de cuisson.
 - Bon appétit !
+- Dresser le plat
